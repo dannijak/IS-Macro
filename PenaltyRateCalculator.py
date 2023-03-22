@@ -6,7 +6,7 @@ import QuantLib as ql
 
 ## -----
 ##
-##  Function to calculate penalty interest
+##  Function to calculate penalty interest in Iceland according to Article 6 of Act on Interest rates and indexation, no. 38/2001.
 ##
 ##  Author: Daniel Jakobsson
 ##
