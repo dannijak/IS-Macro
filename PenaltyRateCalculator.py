@@ -8,6 +8,8 @@ import QuantLib as ql
 ##
 ##  Function to calculate penalty interest
 ##
+##  Author: Daniel Jakobsson
+##
 ##  Example: Penalty_Interest_Amount = calculatePenalty(100, datetime(2022,1,20), datetime(2023,1,5)) 
 ##
 ## -----
